@@ -40,12 +40,14 @@
     {
       "id": 1,
       "supportType": "zoom help meeting",
-      "date": "2024-10-29T22:48:45Z"
+      "date": "2024-10-29T22:48:45Z",
+      "technicianId": ""
     },
     {
       "id": 2,
       "supportType": "zoom help meeting",
-      "date":  "2024-10-29T21:35:40Z"
+      "date":  "2024-10-29T21:35:40Z",
+      "technicianId": ""
     }
   ]
 }
